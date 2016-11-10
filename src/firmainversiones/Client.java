@@ -1,3 +1,4 @@
+package firmainversiones;
 
 import firmainversiones.Asset;
 
